@@ -45,7 +45,7 @@ for instance, if riders indicate floors 27 and 29, the elevator can choose to st
 
 ### Setup
 
-1. Clone the repository
+1. Clone the repository using the code below in terminal or use GitHub Desktop
     ```bash
     git clone https://github.com/fahrel-fh2206836/elevator-optimization-algorithm.git
     ```
