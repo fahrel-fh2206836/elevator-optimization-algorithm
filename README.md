@@ -60,7 +60,7 @@ for instance, if riders indicate floors 27 and 29, the elevator can choose to st
         1. Extract **_Elevator-Optimizer-Algorithm.zip_** file.
         2. Navigate to **_Elevator-Greedy-Optimizer\src\project\ElevatorOptimization.java_**.
         3. Create a Java Project in the IDE of your choice and paste the **_ElevatorOptimization.java_** file.
-        4. Replace line 1 of the **_ElevatorOptimization.java_** with `package (your package);`
+        4. If you have pasted the file in a package, replace line 1 of **_ElevatorOptimization.java_** with `package (your package name);`. Otherwise, remove line 1.
 
 ## Contributors
 - Fahrel Azki Hidayat
